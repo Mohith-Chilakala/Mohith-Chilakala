@@ -3,7 +3,6 @@
 👋 Hey there
   - 🌱 I’m currently learning <b>Spring boot</b>, <b>AWS</b>
   - ⚒️ Working on full-stack projects
-  - 
 
 
 <!--
